@@ -1,0 +1,92 @@
+.clr{
+    clear: both;
+}
+.container1{
+    width: 900px;
+    padding-top: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    
+    align-items: center;
+    float: left;
+    
+}
+.container1 h2{
+    padding-bottom: 15px;
+}
+.profile-pic img{
+    width: 300px;
+	height: 250px;
+    padding-bottom: 15px;
+}
+.info h1{
+    padding-bottom: 10px;
+}
+.info{
+    justify-content: center;
+    margin-left: 30%;
+    width: 40%;
+    background-color: lightslategray;
+    margin-bottom: 10px;
+}
+.info h3{
+    font-size: larger;
+    padding-bottom: 5px;
+}
+.coach-desc{
+    padding-top: 10px;
+    justify-content: center;
+    margin-left: 30%;
+    width: 40%;
+    background-color: lightslategray;
+    padding-bottom: 10px;
+}
+.reviews{
+    width: 370px;
+    margin-top: 100px;
+    
+    text-align: center;
+    box-sizing: border-box;
+    background-color: lightslategray;
+    align-items: center;
+    float: left;
+}
+.reviews h3{
+    padding: 10px;
+    
+}
+#review{
+    padding: 5px;
+}
+.coach-btn{
+    margin: 15px;
+}
+.coach-btn input{
+    color: white;
+    background-color: brown;
+    padding: 5px;
+}
+.reviews a input{
+    padding: 5px;
+    color: white;
+    background-color: brown;
+}
+.container1 h2{
+    font-family: 'Albert Sans', sans-serif;
+}
+.info h3,h1{
+    font-family: 'Albert Sans', sans-serif;
+}
+.coach-desc h3,p{
+    font-family: 'Albert Sans', sans-serif;
+}
+.reviews h3{
+    font-family: 'Albert Sans', sans-serif;
+    font-size: medium ;
+    
+}
+#create{
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+}

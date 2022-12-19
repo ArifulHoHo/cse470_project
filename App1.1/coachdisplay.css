@@ -1,0 +1,35 @@
+.clr{
+    clear: both;
+}
+.container1{
+    padding-top: 20px;
+    width: 1170px;
+    margin: 0 auto;
+    
+}
+.coach{
+    
+    width: 260px;
+    padding: 20px 0;
+    box-sizing: border-box;
+    float: left;
+    background-color: lightslategray;
+    padding-left: 10px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.profile-pic img{
+    width: 225px;
+	height: 250px;
+    padding-bottom: 15px;
+}
+.profile-pic h3,input{
+    font-family: 'Albert Sans', sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+#submit{
+    background-color: white;
+    margin-left: 38%;
+    margin-top: 10px;
+}

@@ -1,0 +1,48 @@
+.clr{
+    clear: both;
+}
+.container1{
+    
+    padding-top: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.container1 h2{
+    padding-bottom: 15px;
+}
+.profile-pic img{
+    width: 300px;
+	height: 250px;
+    padding-bottom: 15px;
+}
+.info h1{
+    padding-bottom: 10px;
+    font-family: 'Albert Sans', sans-serif;
+}
+.info{
+    justify-content: center;
+    margin-left: 35%;
+    width: 30%;
+    background-color: lightslategray;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.info h3{
+    font-size: larger;
+    padding: 5px;
+    font-family: 'Albert Sans', sans-serif;
+
+}
+.coach-desc{
+    padding-top: 10px;
+    justify-content: center;
+    margin-left: 30%;
+    width: 40%;
+    background-color: lightslategray;
+    padding-bottom: 10px;
+}
