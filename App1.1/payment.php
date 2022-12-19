@@ -13,6 +13,20 @@ $userID = $_SESSION['user_id']; ?>
     <link rel="stylesheet" href="homestyle.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        .container1{
+            text-align: center;
+            padding: 15em;
+        }
+        .btn-1 h3{
+            padding: 10px;
+            font-family: 'Albert Sans', sans-serif;
+            background-color: gray;
+            width: fit-content;
+            margin-left: 13.5em;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
     <?php 
@@ -38,8 +52,8 @@ $userID = $_SESSION['user_id']; ?>
                     <!--<input type="Submit" name="Submit" value="Submit">  -->    
 
             </div>
-            <div class = "btn">
-                    <h3>Click submit to agree to pay $80 for the coaching session</h3>
+            <div class = "btn-1">
+                    <h3>Click submit to agree to pay $40 for the coaching session</h3>
                     <input type="Submit" name="Submit" value="Submit">
             </div>
     </form>
